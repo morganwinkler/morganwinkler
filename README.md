@@ -9,6 +9,9 @@ Prior to my venture into tech, I held managerial roles in the hospitality field,
 I am excited about leveraging my diverse background to create innovative solutions and contribute positively to the tech industry. Let's connect and explore opportunities for collaboration!
 <br/>  
 
+## Recent Projects
+- Happiest Hour - [Watch the Full Stack Demo Video](https://www.canva.com/design/DAF5Hh65lEw/YeSQG5KzlAA9cRqeFUt0SA/watch?utm_content=DAF5Hh65lEw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  

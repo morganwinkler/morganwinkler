@@ -11,6 +11,7 @@ I am excited about leveraging my diverse background to create innovative solutio
 
 ## Recent Projects
 - Happiest Hour - [Watch the Full Stack Demo Video](https://www.canva.com/design/DAF5Hh65lEw/YeSQG5KzlAA9cRqeFUt0SA/watch?utm_content=DAF5Hh65lEw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- MyCare - [Watch the Full Stack Demo Video](https://www.canva.com/design/DAF5lp5LN8s/yNOLy3GqF9jJ6vjmlGEs9w/watch?utm_content=DAF5lp5LN8s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Languages and Tools  
 <div align="center">  

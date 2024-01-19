@@ -1,4 +1,11 @@
 ## Hi! 👋 I'm Morgan 
+
+<a href="https://www.linkedin.com/in/morganwinkler1553/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<br/>
+
+## About Me
    
 A recent graduate of Actualize Coding Bootcamp, equipped with a certificate in Full Stack Web Development. I specialize in utilizing technologies like Ruby on Rails, Git, React.js, Javascript, and SQL to create robust and dynamic web applications that follow standard CRUD and RESTful industry guidelines.
 
@@ -12,6 +19,17 @@ I am excited about leveraging my diverse background to create innovative solutio
 ## Recent Projects
 - Happiest Hour - [Watch the Full Stack Demo Video](https://www.canva.com/design/DAF5Hh65lEw/YeSQG5KzlAA9cRqeFUt0SA/watch?utm_content=DAF5Hh65lEw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - MyCare - [Watch the Full Stack Demo Video](https://www.canva.com/design/DAF5lp5LN8s/yNOLy3GqF9jJ6vjmlGEs9w/watch?utm_content=DAF5lp5LN8s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+## What I'm Currently Up To
+- Learning the C# stack, my plan is to rebuild both of my projects in each new language I learn!
+
+## Education
+- Certificate in Full Stack Web Development from Actualize Coding Bootcamp
+- Associate's Degree in Nursing, with an Active RN License
+- Bachelor's Degree in Biology
+
+## When I'm Not Coding
+You can find me doing anything outdoors! I love to hike with my dogs and explore new areas. In my free time I also enjoy creating art and building things :)
 
 ## Languages and Tools  
 <div align="center">  

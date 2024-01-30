@@ -21,7 +21,7 @@ I am excited about leveraging my diverse background to create innovative solutio
 - MyCare - [Watch the Full Stack Demo Video](https://www.canva.com/design/DAF5lp5LN8s/yNOLy3GqF9jJ6vjmlGEs9w/watch?utm_content=DAF5lp5LN8s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## What I'm Currently Up To
-- Learning the C# stack, my plan is to rebuild both of my projects in each new language I learn!
+- Learning the C# / .NET stack
 
 ## Education
 - Certificate in Full Stack Web Development from Actualize Coding Bootcamp
